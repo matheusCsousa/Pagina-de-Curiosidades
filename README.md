@@ -1,6 +1,6 @@
 # Página de Curiosidades
 
-Site de curiosidades desenvolvido em PHP como projeto acadêmico. Cada página exibe informações sobre um tema diferente, com dados carregados de fontes distintas (HTML estático, XML e JSON).
+Site de curiosidades desenvolvido em PHP como projeto acadêmico da Fatec Jundiaí. Cada página exibe informações sobre um tema diferente, com dados carregados de fontes distintas — HTML estático, XML e JSON.
 
 ## Páginas
 
@@ -11,9 +11,9 @@ Site de curiosidades desenvolvido em PHP como projeto acadêmico. Cada página e
 | `curiosidade3.php` | Missão Artemis II | JSON (`curiosidade3.json`) |
 | `nomes.php` | Desenvolvedores | HTML estático |
 
-## Como rodar
+## Como executar
 
-Requer PHP + servidor local (XAMPP, WAMP ou PHP built-in).
+Requer PHP + servidor local (XAMPP ou PHP built-in).
 
 **PHP built-in:**
 ```bash
@@ -41,6 +41,8 @@ Acesse `http://localhost:8000/index.php`.
 ```
 
 ## Desenvolvedores
+
+Projeto desenvolvido por alunos do curso de Análise e Desenvolvimento de Sistemas — Fatec Jundiaí.
 
 - Matheus Correia de Sousa
 - Henry Gabriel Diniz Pereira
