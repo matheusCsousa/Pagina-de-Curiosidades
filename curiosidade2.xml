@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curiosidades>
+    <imagem>
+    https://imgs.search.brave.com/1yfS0kvbAzx7B4xKTV8JBhTGqLRu-0sjYTAB6ypcbTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFkLzEwMjU0NDhf/QV9Td2VkaXNoX0pB/Uy0zOV9HcmlwZW5f/cmV0dXJuc190b190/aGVfcGxheV9hcmVh/c19vZl90aGVfQXJj/dGljX0NoYWxsZW5n/ZV9leGVyY2lzZV9T/ZXB0Ll8yNCxfMjAx/My5qcGc    </imagem>
+    <intro>
+            O F-39 Gripen é o caça supersônico mais moderno em operação na América Latina. Desenvolvido pela sueca Saab em parceria com a Embraer, ele foi escolhido em 2013 para substituir os antigos F-5 e Mirage da Força Aérea Brasileira, após um processo de seleção que durou anos e avaliou concorrentes como o F/A-18 Super Hornet e o Rafale. O contrato, assinado em 2014 por US$ 4,5 bilhões, trouxe algo raro em compras militares: a transferência completa de tecnologia ao Brasil. Confira algumas das curiosidades mais impressionantes sobre essa aeronave:
+    </intro>
+    <item>
+        <texto>
+            O F-39 Gripen atinge até 2.400 km/h, quase o dobro da velocidade do som. Com esse desempenho, ele cobre a distância entre São Paulo e o Rio de Janeiro em apenas 12 minutos.
+        </texto>
+    </item>
+    <item>
+        <texto
+        >Para realizar um pouso, o Gripen precisa de apenas 600 metros de pista, o que permite operar em aeródromos pequenos e até em rodovias adaptadas, garantindo flexibilidade operacional em situações de crise.</texto>
+    </item>
+    <item>
+        <texto
+        >Em cerca de dez minutos, o caça pode ser rearmado, reabastecido e voltar ao combate. Uma troca completa de turbina leva menos de uma hora, e todos os painéis de acesso ficam em altura que dispensa escadas.</texto>
+    </item>
+    <item>
+        <texto
+        >O Gripen foi concebido para a chamada Guerra Centrada em Redes: esquadrilhas inteiras voam conectadas por datalink criptografado, permitindo que um caça lance um míssil com base nos sensores de outro avião que nem sequer está no campo visual.</texto>
+    </item>
+    <item>
+        <texto
+        >O radar modelo AESA detecta múltiplos alvos simultaneamente em ângulos elevados. Além disso, um sistema de rastreamento passivo por infravermelho persegue alvos sem emitir sinal, ou seja, o alvo não sabe que está sendo monitorado.</texto>
+    </item>
+    <item>
+        <texto
+        >Em março de 2026, o primeiro F-39 Gripen montado inteiramente no Brasil foi entregue ao presidente da República em cerimônia na Embraer em Gavião Peixoto (SP). Ao todo, 15 dos 36 caças encomendados serão produzidos em território nacional.</texto>
+    </item>
+    <item>
+        <texto
+        >Em novembro de 2025, a FAB realizou o primeiro disparo real do míssil Meteor a partir do F-39, em Natal (RN). O Meteor é considerado um dos mísseis ar-ar mais letais do mundo, com alcance de até 200 quilômetros.</texto>
+    </item>
+    <conclusao>
+        Mais do que um caça, o F-39 Gripen representa uma aposta estratégica do Brasil em soberania tecnológica. O programa gerou mais de 12 mil empregos, capacitou 350 engenheiros brasileiros na Suécia e inseriu a indústria nacional numa cadeia de valor aeronáutica de altíssima complexidade, com a Embraer, AEL Sistemas, Akaer e outras empresas participando diretamente da produção.
+    </conclusao>
+</curiosidades>

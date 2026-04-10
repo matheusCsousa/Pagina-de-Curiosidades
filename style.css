@@ -1,0 +1,69 @@
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+h1 {
+    display: inline-block;
+    padding: 15px 40px;
+    border: 3px solid;
+    box-shadow: 6px 6px 0px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.cards {
+    display: block;
+    margin-top: 20px;
+}
+
+.card {
+    background-color: white;
+    border: 2px solid;
+    margin: 10px auto;
+    padding: 15px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+a {
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+a[href="index.php"] {
+    display: block;
+    width: fit-content;
+    margin: 0 auto 30px auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto 20px auto;
+    max-width: 900px;
+    height: auto;
+    border: 10px solid white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 700px;
+    margin: 15px auto;
+    text-align: left;
+}
+
+.card:last-child {
+    margin-top: 50px;
+    width: 200px;
+    border-style: dashed;
+}

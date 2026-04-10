@@ -1,0 +1,29 @@
+{
+  "titulo": "Missão Artemis II",
+  "imagem": "https://imgs.search.brave.com/MrBXh1gRQKKWv8cVUSF8i2vWLTMW-6zOU4qR7ePkEZ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtYXNzZXRzLm5h/c2EuZ292L2ltYWdl/L2FydDAwMmUwMDg0/ODcvYXJ0MDAyZTAw/ODQ4N35sYXJnZS5q/cGc_dz0xOTIwJmg9/MTQ0MCZmaXQ9Y2xp/cCZjcm9wPWZhY2Vz/LGZvY2FscG9pbnQ",
+  "intro": "A Artemis II é a primeira missão tripulada do programa Artemis da NASA e o primeiro voo humano além da órbita baixa da Terra desde a Apollo 17, em 1972. Lançada em 1º de abril de 2026, a missão leva quatro astronautas a bordo da cápsula Orion, batizada de Integrity pela própria tripulação, em um sobrevoo lunar de dez dias. Não há pouso na Lua: o objetivo é testar todos os sistemas da nave em espaço profundo antes das missões que realmente vão pousar. Confira algumas das curiosidades mais impressionantes sobre essa missão histórica:",
+  "curiosidades": [
+    {
+      "texto": "A Orion alcançou 406.771 km da Terra, superando o recorde da Apollo 13 (400.073 km) que durava 56 anos. É a maior distância já percorrida por seres humanos no espaço."
+    },
+    {
+      "texto": "Victor Glover se tornou o primeiro homem negro a viajar ao redor da Lua. Christina Koch foi a primeira mulher a fazer o mesmo. E Jeremy Hansen, da Agência Espacial Canadense, foi o primeiro não-americano nessa trajetória."
+    },
+    {
+      "texto": "Ao passar pelo lado oculto da Lua, toda comunicação com a Terra foi cortada por cerca de 40 minutos. Foi o silêncio mais distante já experimentado por seres humanos desde a era Apollo."
+    },
+    {
+      "texto": "A missão foi planejada para que, mesmo com falha total do sistema de propulsão, a gravidade lunar curvasse naturalmente o caminho da Orion de volta à Terra. Os astronautas retornariam ao planeta sem acionar nenhum motor."
+    },
+    {
+      "texto": "Durante o sobrevoo lunar, os astronautas testemunharam um eclipse solar de quase uma hora, quando a ausência de luz direta permitiu observar a coroa solar com nitidez impossível de obter na Terra."
+    },
+    {
+      "texto": "A tripulação registrou ao menos quatro brilhos de impacto de meteoritos, pó lunar levantado por forças eletrostáticas e novas cores na superfície lunar nunca documentadas diretamente pelo olho humano."
+    },
+    {
+      "texto": "Segundo relatório do inspetor-geral da NASA, cada lançamento combinado do foguete SLS com a cápsula Orion custa aproximadamente US$ 4,1 bilhões, tornando-o um dos voos mais caros da história da exploração espacial."
+    }
+  ],
+  "conclusao": "A Artemis II não vai pousar na Lua, mas já entrou para a história. Cada sistema testado, cada recorde quebrado e cada imagem enviada pela tripulação é dado coletado para a Artemis III, que pretende levar humanos de volta à superfície lunar pela primeira vez desde 1972."
+}
